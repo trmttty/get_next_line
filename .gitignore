@@ -1,0 +1,9 @@
+Makefile
+*.pdf
+*.txt
+main*
+.DS_Store
+*.o
+gnl
+a.out
+*.sh
